@@ -30,8 +30,10 @@ p {
     border: 3px solid white;
     border-radius: 50%;
 }
+.Skills {
+	text-align:center;
+}
 .section {
-    
     background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
